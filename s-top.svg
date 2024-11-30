@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="44.54612mm"
+   height="144mm"
+   viewBox="0 0 44.54612 144"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="s-twist-top.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="3.3286345"
+     inkscape:cx="131.58549"
+     inkscape:cy="230.87545"
+     inkscape:window-width="3840"
+     inkscape:window-height="2121"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-69.446677,-39.71979)">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:7.71862"
+       id="rect4"
+       width="24.092144"
+       height="144.00003"
+       x="79.719658"
+       y="39.71978" />
+    <path
+       id="use11"
+       style="color:#000000;fill:#0000ff;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 91.719735,73.431981 c 0.0936,0.0012 0.18617,0.0072 0.28008,0.0072 12.032445,0 21.841405,-9.722299 21.992965,-21.719605 h -4.00027 c -0.14986,9.833976 -8.12207,17.719332 -17.992695,17.719332 -0.094,0 -0.18646,-0.0058 -0.28008,-0.0072 z" />
+    <rect
+       style="fill:#c95900;fill-opacity:1;stroke:#c95900;stroke-width:4;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1"
+       width="20"
+       height="20"
+       x="41.719799"
+       y="-101.71981"
+       transform="rotate(90)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect1"
+       id="use1"
+       transform="translate(-5e-6,40.000005)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use1"
+       id="use2"
+       transform="translate(-5e-6,40.000005)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use2"
+       id="use3"
+       transform="translate(-5e-6,40.000005)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use7"
+       id="use8"
+       transform="rotate(180,91.856265,71.431809)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11"
+       id="use12"
+       transform="rotate(180,91.719735,71.431809)" />
+    <path
+       id="use7"
+       style="color:#000000;fill:#ff0000;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 91.992785,73.431946 c -0.0936,0.0012 -0.18617,0.0072 -0.28008,0.0072 -12.03245,0 -21.8414,-9.722299 -21.99297,-21.719605 h 4.00027 c 0.14986,9.833976 8.12207,17.719332 17.9927,17.719332 0.094,0 0.18646,-0.0058 0.28008,-0.0072 z" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use8"
+       id="use9"
+       transform="matrix(1,0,0,-1,5e-6,182.28808)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use9"
+       id="use10"
+       transform="rotate(180,91.859775,110.85989)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use13"
+       id="use14"
+       transform="rotate(180,91.719734,110.85627)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use12"
+       id="use13"
+       transform="matrix(1,0,0,-1,-4.9966667e-6,182.28808)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use14"
+       id="use15"
+       transform="matrix(1,0,0,-1,5e-6,261.137)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use15"
+       id="use18"
+       transform="rotate(180,91.856268,150.28073)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use16"
+       id="use17"
+       transform="rotate(180,91.856268,150.28073)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use10"
+       id="use16"
+       transform="matrix(1,0,0,-1,-0.007025,261.14423)" />
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+#!/bin/bash
+set -e
+make
+
+DOMAIN=saddlestitches.kemitchell.com
+rsync \
+  --verbose \
+  --checksum \
+  --out-format "%n" \
+  --recursive \
+  --delete \
+  --prune-empty-dirs \
+  --include "*/" \
+  --include "*.html" \
+  --include "*.webp" \
+  --include "*.svg" \
+  --include "*.glb" \
+  --include "*.js" \
+  --include "*.css" \
+  --exclude "*" \
+  ./ "$DOMAIN:/var/www/$DOMAIN"

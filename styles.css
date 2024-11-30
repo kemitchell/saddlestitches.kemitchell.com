@@ -1,0 +1,72 @@
+@charset "UTF-8";
+
+main {
+  a[href] {
+    background-image: url('/external.svg');
+    background-position: center right;
+    background-repeat: no-repeat;
+    background-size: 0.75em;
+    padding-right: 1em;
+  }
+
+  a[href*="wikipedia.org"] {
+    background-image: url("/wikipedia.svg") !important;
+    background-position: center right 0;
+    background-size: 0.75em;
+    padding-right: 0.75em;
+  }
+  
+  @media (prefers-color-scheme: dark) {
+    a[href] {
+      background-image: url('/external-white.svg');
+    }
+    a[href*="wikipedia.org"] {
+      background-image: url("/wikipedia-white.svg") !important;
+    }
+    img {
+      background-color: white;
+    }
+  }
+
+  a[href^="mailto:"], a[href^="#"] {
+    background: none;
+    padding-right: 0;
+  }
+
+  a[href]:has(img) {
+    background: none;
+    padding-right: 0;
+  }
+}
+
+figure {
+  border: 1px solid #777;
+  padding: 1rem;
+  text-align: center;
+}
+
+
+.big { font-size: 300%; }
+
+#summary {
+  td {
+    padding: 0.8rem 0.5rem;
+  }
+  ul {
+    margin-left: 1rem;
+  }
+}
+
+.nowrap {
+  white-space: nowrap;
+}
+
+caption { font-weight: bold; }
+
+.fullwidth {
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
+  width: 100%;
+}
